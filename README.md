@@ -4,7 +4,6 @@ Contains utility Python scripts to verify successful migration to a different pl
 
   - Getting all the URLs of a current website and verification of their status in new the website.
 
-Read more about it on [Addvivoc](https://addvivoc.com/blogs/technical/how-to-verify-the-success-of-a-migration-project/)
 
 ### Installation
 
